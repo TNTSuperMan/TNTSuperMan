@@ -22,6 +22,7 @@ So my all social media language is japanese.
 ![Webpack](https://skillicons.dev/icons?theme=dark&i=webpack)
 ![NPM](https://skillicons.dev/icons?theme=dark&i=npm)
 ![.NET](https://skillicons.dev/icons?theme=dark&i=dotnet)
+![Rollup](https://skillicons.dev/icons?theme=dark&i=rollup)
 ![Vite](https://skillicons.dev/icons?theme=dark&i=vite)
 ![Godot](https://skillicons.dev/icons?theme=dark&i=godot)
 ![Git](https://skillicons.dev/icons?theme=dark&i=git)
