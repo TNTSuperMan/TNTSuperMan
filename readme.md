@@ -3,7 +3,7 @@ Sorry, I'm Japanese.
 So my all social media language is japanese.
 ## Social Media
 [Website](https://tntsuperman.github.io)  
-[Youtube](https://youtube.com/@tntsuperman)  
+[Youtube](https://youtube.com/@TNTSuperMan-Developers)  
 [Qiita](https://qiita.com/TNTSuperMan)  
 [Scratch](https://scratch.mit.edu/users/TNTSuperMan)  
 ## Skills
@@ -27,6 +27,8 @@ So my all social media language is japanese.
 ![Godot](https://skillicons.dev/icons?theme=dark&i=godot)
 ![Git](https://skillicons.dev/icons?theme=dark&i=git)
 ![Github](https://skillicons.dev/icons?theme=dark&i=github)
+#### Learning...
+![React](https://skillicons.dev/icons?theme=dark&i=react)
 ## Activities
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TNTSuperMan&theme=vue-dark&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTSuperMan&theme=vue-dark&layout=compact)
