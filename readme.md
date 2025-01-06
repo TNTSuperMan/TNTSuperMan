@@ -13,6 +13,7 @@ So my all social media language is japanese.
 ![JavaScript](https://skillicons.dev/icons?theme=dark&i=js)
 ![TypeScript](https://skillicons.dev/icons?theme=dark&i=ts)
 ![Vue](https://skillicons.dev/icons?theme=dark&i=vue)
+![React](https://skillicons.dev/icons?theme=dark&i=react)
 ![C++](https://skillicons.dev/icons?theme=dark&i=cpp)
 ![C#](https://skillicons.dev/icons?theme=dark&i=cs)
 ![PHP](https://skillicons.dev/icons?theme=dark&i=php)
@@ -44,8 +45,8 @@ So my all social media language is japanese.
 ![Windows](https://skillicons.dev/icons?theme=dark&i=windows)
 ![Windows](https://skillicons.dev/icons?theme=dark&i=windows)
 #### Learning...
-![React](https://skillicons.dev/icons?theme=dark&i=react)
 ![Redux](https://skillicons.dev/icons?theme=dark&i=redux)
+![Vim](https://skillicons.dev/icons?theme=dark&i=vim)
 ## Activities
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TNTSuperMan&theme=vue-dark&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTSuperMan&theme=vue-dark&layout=compact)
