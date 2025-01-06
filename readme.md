@@ -23,6 +23,7 @@ So my all social media language is japanese.
 #### Tools
 ![Node.js](https://skillicons.dev/icons?theme=dark&i=nodejs)
 ![NPM](https://skillicons.dev/icons?theme=dark&i=npm)
+![Bun](https://skillicons.dev/icons?theme=dark&i=bun)
 ![Webpack](https://skillicons.dev/icons?theme=dark&i=webpack)
 ![Rollup](https://skillicons.dev/icons?theme=dark&i=rollup)
 ![Vite](https://skillicons.dev/icons?theme=dark&i=vite)
