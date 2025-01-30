@@ -48,6 +48,8 @@ So my all social media language is japanese.
 #### Learning...
 ![Redux](https://skillicons.dev/icons?theme=dark&i=redux)
 ![Vim](https://skillicons.dev/icons?theme=dark&i=vim)
+![Cloudflare](https://skillicons.dev/icons?theme=dark&i=cloudflare)
+![Workers](https://skillicons.dev/icons?theme=dark&i=workers)
 ## Activities
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TNTSuperMan&theme=vue-dark&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTSuperMan&theme=vue-dark&layout=compact)
