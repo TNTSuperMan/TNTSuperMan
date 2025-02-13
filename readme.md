@@ -23,7 +23,6 @@ So my all social media language is japanese.
 ![Rollup](https://skillicons.dev/icons?theme=dark&i=rollup)
 ![Vue](https://skillicons.dev/icons?theme=dark&i=vue)
 ![React](https://skillicons.dev/icons?theme=dark&i=react)
-![Godot](https://skillicons.dev/icons?theme=dark&i=godot)
 ![Vitest](https://skillicons.dev/icons?theme=dark&i=vitest)
 ![.NET](https://skillicons.dev/icons?theme=dark&i=dotnet)
 #### Tools
@@ -36,6 +35,7 @@ So my all social media language is japanese.
 #### SDKs
 ![VisualStudio](https://skillicons.dev/icons?theme=dark&i=visualstudio)
 ![VSCode](https://skillicons.dev/icons?theme=dark&i=vscode)
+![Godot](https://skillicons.dev/icons?theme=dark&i=godot)
 #### OS
 ![Windows](https://skillicons.dev/icons?theme=dark&i=windows)
 ![Windows](https://skillicons.dev/icons?theme=dark&i=windows)
