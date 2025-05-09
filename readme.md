@@ -2,8 +2,6 @@
 Sorry, I'm Japanese.
 So my all social media language is japanese.
 ## Social Media
-# **The website is currently under maintenance.**
-# **現在ホームページはメンテナンスしています。**
 
 [Youtube](https://youtube.com/@TNTSuperMan-Developers)  
 [Qiita](https://qiita.com/TNTSuperMan)  
