@@ -2,7 +2,7 @@
 Microsoft信者、反Googleです。
 
 ## アカウント
-[Qiita](https://qiita.com/TNTSuperMan)、[npm](https://www.npmjs.com/~tntsuperman)、[Scratch](https://scratch.mit.edu/users/TNTSuperMan)  
+[Qiita](https://qiita.com/TNTSuperMan)、[npm](https://www.npmjs.com/~tntsuperman)
 
 ## スキル
 
