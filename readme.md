@@ -49,7 +49,7 @@ Microsoft信者、反Googleです。
 #### 勉強中
 ![Vim](https://skillicons.dev/icons?theme=dark&i=vim)
 ![Elysia](https://skillicons.dev/icons?theme=dark&i=elysia)
-![Zig](https://skillicons.dev/icons?theme=dark&i=zig)
+![Rust](https://skillicons.dev/icons?theme=dark&i=rust)
 
 その他のスキルは[ウェブサイト](https://tntsuperman.github.io/?p=profile)見てね
 
