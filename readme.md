@@ -1,6 +1,10 @@
 どうも、TypeScriptとReactとBunをよく使ってるTNTSuperManです  
 Microsoft信者、反Googleです。
 
+## 初心者に降格した理由
+
+https://github.com/TNTSuperMan/TNTOS/pull/5
+
 ## アカウント
 [Qiita](https://qiita.com/TNTSuperMan)、[npm](https://www.npmjs.com/~tntsuperman)
 
