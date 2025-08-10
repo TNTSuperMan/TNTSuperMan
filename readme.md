@@ -61,4 +61,4 @@ https://github.com/TNTSuperMan/TNTOS/pull/5
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TNTSuperMan&theme=vue-dark&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTSuperMan&theme=vue-dark&layout=compact)
 
-![Moe Counter](https://count.getloli.com/@TNTSuperMan)
+![Moe Counter](https://count.getloli.com/@TNTSuperMan?theme=capoo-2)
