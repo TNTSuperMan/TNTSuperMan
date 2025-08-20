@@ -1,5 +1,5 @@
 どうも、TypeScriptとReactとBunをよく使ってるTNTSuperManです  
-Microsoft信者、反Googleです。
+Microsoft信者で、Googleが嫌いです。
 
 ## 初心者に降格した理由
 
